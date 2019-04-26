@@ -1,3 +1,4 @@
+#Download Map1 to be able to play this game
 """
 from random import randint
 
