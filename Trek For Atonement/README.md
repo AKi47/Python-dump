@@ -7,7 +7,6 @@ This repo contains:
 - Zip files for source code as well as the compiled executable game
 - Level editor created for creating and editing levels for the game
 - Documentation including the full project document as well as the extended implementation document
-- Video testing file
 
 
 
