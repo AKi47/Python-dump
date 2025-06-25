@@ -1,0 +1,2 @@
+RandomZombie 2376 760
+RandomZombie 2450 760

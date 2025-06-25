@@ -1,0 +1,6 @@
+Spitter 1083 595
+Zombie 1426 560
+Zombie 1890 560
+BloodOrc 1158 1284
+BloodOrc 1620 1284
+BloodOrc 2173 1284

@@ -1,0 +1,4 @@
+GreenSlime 775 776
+GreenSlime 3022 776
+GreySlime 987 776
+GreySlime 2916 776

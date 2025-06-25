@@ -1,0 +1,4 @@
+BloodOrc 639 742
+BigDemon 2685 677
+MaskedOrc 82 748
+Orc 1626 707

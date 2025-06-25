@@ -1,0 +1,4 @@
+MaskedOrc 198 688
+MaskedOrc 3637 688
+Zombie 3145 680
+Zombie 820 680

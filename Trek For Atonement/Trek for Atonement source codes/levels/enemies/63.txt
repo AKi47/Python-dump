@@ -1,0 +1,10 @@
+Knight 876 270
+MaskedOrc 1557 570
+MaskedOrc 1620 570
+RandomZombie 630 1180
+RandomZombie 676 1180
+RandomZombie 727 1180
+RandomZombie 775 1180
+Orc 1078 888
+Orc 1152 888
+Orc 1221 888

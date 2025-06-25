@@ -1,0 +1,4 @@
+GreySlime 478 416
+GreySlime 418 416
+GreySlime 1260 716
+GreySlime 2050 776
