@@ -1,0 +1,2 @@
+[Player]:If monsters have taken over this place already then how long has this place been in this state?
+[Player]:Well I locked the door, now I have to kill time until the coast is clear.

@@ -1,0 +1,2 @@
+[Narrator]:You have picked up a key!
+[Narrator]:You can now unlock a key door.

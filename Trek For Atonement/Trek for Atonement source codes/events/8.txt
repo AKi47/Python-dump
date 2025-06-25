@@ -1,0 +1,4 @@
+[Narrator]:You have acquired bombs!
+[Narrator]:Press the use item button with bombs equipt to drop a bomb.
+[Narrator]:You can blow up specific walls or damage enemies.
+[Narrator]:Press your inventory button to equip different items.

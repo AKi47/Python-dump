@@ -1,0 +1,9 @@
+[Player]:Howdy. Are you the harbour master?
+Harbour Master:Sure I am, what do you need traveler?
+[Player]:Someone mentioned this town beng raided, what is that about?
+Harbour Master:Well, there is a mountain to the north east that is a camp for all sorts of monsters that continually raids our humble town.
+Harbour Master:Thankfully we have a protector that helps us fight them back but he will not leave this unguarded to possible deal with them.
+Harbour Master:You seem to be able to take care of yourself, am I correct in assuming so? 
+[Player]:Well I would like to think I am.
+Harbour Master:Excellent! How about you go clear out the camp and when you return I will pay you handsomely?
+[Player]:That sounds fair, I will be off them.

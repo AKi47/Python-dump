@@ -1,0 +1,4 @@
+[Narrator]:You have acquired a Hookshot!
+[Narrator]:Press the use item button with the hookshot equipt and aim at a target.
+[Narrator]:If you aim it correctly you will be whizzed through the air towards the target!
+[Narrator]:Press your inventory button to equip different items.

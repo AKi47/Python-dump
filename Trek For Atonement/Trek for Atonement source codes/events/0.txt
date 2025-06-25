@@ -1,0 +1,3 @@
+[Player]:Where am I?
+[Player]:I don't remember a thing and my head hurts bad.
+[Player]:I hope I can find some people to find my bearings.

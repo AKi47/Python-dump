@@ -1,0 +1,5 @@
+[Player]:What happened to castaway village?
+Man:Casta-what?
+[Player]:The village across this strech of the sea to the south.
+Man:I am lumberjack.
+[Player]:Forget it, thanks.

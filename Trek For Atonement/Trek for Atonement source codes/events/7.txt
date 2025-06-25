@@ -1,0 +1,4 @@
+[Narrator]:You have acquired a sword!
+[Narrator]:Use your attack button to swing the sword to attack enemies.
+[Narrator]:Duck and then attack to perform a low stab attack.
+[Narrator]:Upon level up, level up your strength skill in the inventory menu to be able to do more damage to enemies.

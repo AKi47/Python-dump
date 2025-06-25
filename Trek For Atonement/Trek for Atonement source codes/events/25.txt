@@ -1,0 +1,5 @@
+[Player]:What is up!
+Man:Oh hi. Please don't mind the appearance, just another raid I need to clean up after...
+[Player]:Raid?
+Man:Go talk to the harbour master, I'm fed up of those things.
+[Player]:Sorry to hear it, and thanks.

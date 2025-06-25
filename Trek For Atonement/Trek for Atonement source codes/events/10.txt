@@ -1,0 +1,2 @@
+[Narrator]:You have acquired a candle!
+[Narrator]:You can now enter dark caves and progress with the story.

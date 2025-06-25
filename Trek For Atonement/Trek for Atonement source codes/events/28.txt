@@ -1,0 +1,3 @@
+[Player]:The job is done.
+Harbour Master:You got the orc leader?
+Harbour Master:Wonderful! Here take this as a reward.

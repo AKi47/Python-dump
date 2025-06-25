@@ -1,0 +1,4 @@
+[Narrator]:You have acquired a Bow!
+[Narrator]:Press the use item button with the hookshot equipt and aim at a target.
+[Narrator]:You can shoot enemies from a distance and through narrow gaps!
+[Narrator]:Press your inventory button to equip different items.

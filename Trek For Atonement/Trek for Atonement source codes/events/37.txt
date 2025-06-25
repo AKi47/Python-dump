@@ -1,0 +1,4 @@
+Scientist:The famed adventurer, you could allegedly go anywhere and return.
+Scientist:The king recruited you to uncover an ancient relic hidden deep in death mountain, nicknamed appropriately for no one ever making it out of there.
+[Player]:...
+Scientist:And naturally, you took up the task.

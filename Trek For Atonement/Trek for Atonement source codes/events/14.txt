@@ -1,0 +1,7 @@
+[Player]:Do you know happened to castaway village?
+Lady:Do I know you?
+[Player]:No miss but I'm lost and confused. I woke up on a...
+Lady:Honestly I don't care. As for the village, we cannot tell you anything about that business.
+[Player]:So you do know what happened?
+[Narrator]:She looks visibly flustered.
+Lady:Please just get out of my house before you regret not doing so.

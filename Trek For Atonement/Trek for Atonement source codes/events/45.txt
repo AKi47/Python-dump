@@ -1,0 +1,10 @@
+King:So the rumours were true...
+[Player]:I survived.
+King:It had to be done, you saw too much.
+[Player]:I do not appreciate what you are doing.
+King:What would you care of some low born? You could have ruled along side me.
+King:I will still give you a chance at resetting, back before all of this nonsense.
+[Player]:That is not what I seek.
+King:What is it you seek now? Why have you come to me then.
+[Player]:I am here to atone for my past mistake.
+King:Atonement? I can help you with tha-

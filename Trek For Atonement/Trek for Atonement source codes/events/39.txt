@@ -1,0 +1,6 @@
+Scientist:You brought it back in one piece.
+Scientist:The king was immensely impressed and even knighted you later on.
+Scientist:But then you made a grave mistake.
+[Player]:What could possibly ruin that?
+Scientist:You got curious.
+Scientist:You wanted to know what the king needed so much from a trinket that seemed so useless.

@@ -1,0 +1,20 @@
+[Player]:I survived...
+Scientist:Obviously.
+[Player]:Why was the penalty death. What was the stone?
+Scientist:I dont want to say.
+[Player]:TELL ME or else.
+Scientist:Okay! Okay!
+Scientist:Old sorcery, one that allows you to change a beings physical traits and behaviour.
+Scientist:The king was really after this kind of sorcery in his chase for immortality.
+Scientist:He sent countless adventurers on the expedition and never disclosed it.
+[Player]:The king is immortal?
+Scientist:We have not perfected the stone's ability, we have tried countless times on test subjects so try to hone the stone's ability into more of what we want.
+[Player]:...you took hostage of people and made them your test subjects.
+Scientist:...
+[Player]:All the monsters I have fought, they are human?
+Scientist:Were.
+Scientist:But not all, we have observed monsters breeding so not all were born human.
+[Player]:Like that matters. I am going to contront the king once again.
+Scientist:But that -
+[Player]:Leave this lab now or else.
+Scientist:...

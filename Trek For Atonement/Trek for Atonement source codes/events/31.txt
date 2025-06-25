@@ -1,0 +1,5 @@
+[Player]:May I pass?
+Guards:This is the king's country past here so you can pass.
+Guards:Unless... You give us a little incentive to let you pass.
+Guards:And it so happens we like gold.
+[Player]:...

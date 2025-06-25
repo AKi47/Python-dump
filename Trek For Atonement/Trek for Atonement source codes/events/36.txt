@@ -1,0 +1,11 @@
+[Player]:Who are you!
+Scientist:Woah!
+Scientist:You are meant to be dead!
+[Player]:Dead?
+Scientist:Yes dead!
+[Player]:Why?
+Scientist:Do you not remember?
+Scientist:You knew too much.
+[Player]:Me? Who am I?
+Scientist:You are-
+Scientist:Ahem sorry, were, the king's right hand man.

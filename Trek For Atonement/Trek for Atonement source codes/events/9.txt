@@ -1,0 +1,13 @@
+Old man:Greetings young man! What may I do for you?
+[Player]:Would you happen to know what happened at Castaway Village?
+Old man:Oh dear me, terrible business it is. I have nothing to lose so I can tell you what I know of the matter.
+Old man:We were told that the village had been lacking in it's monthly taxes to the king.
+[Player]:The king?
+Old man:You do not know about our monarchy son?
+[Player]:I cannot remember anything other than what I think my name is.
+Old man:Well recently the old king had succumbed to old age so the new king, his nephew, was given the role.
+Old man:Ever since he had taken over, the soldiers had become corrupt and aggressive, increasing taxes by almost double the old rate.
+Old man:I could even swear attacks from monsters have been more numerate.
+[Player]:But then what happened to the people of the village?
+Old man:They were taken captive, but I am not sure what was made of them.
+Old man:That is all I can really give you other than a little gift. You seem like a capable young man so this would help you find out more on your journey.

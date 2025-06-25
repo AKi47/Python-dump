@@ -1,0 +1,4 @@
+[Player]:Do you know happened to castaway village?
+Man:No.
+Man:But what I do know is that there are monsters in my attic.
+[Player]:I might be able to help you with that.
